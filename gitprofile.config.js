@@ -76,6 +76,13 @@ const config = {
       imageUrl: 'https://i.imgur.com/YEEwPWK.png',
       link: 'https://github.com/shotgn16/StudyCentral',
     },
+    {
+      title: 'Windows Service Restart',
+      description:
+        'A .NET Framework C# app designed to restart a Windows Service when ran.',
+      imageUrl: 'https://i.imgur.com/8iYNZ8l.png',
+      link: 'https://github.com/shotgn16/ServiceRestart',
+    },
   ],
   // Display blog posts from your medium or dev account. (Optional)
   blog: {
