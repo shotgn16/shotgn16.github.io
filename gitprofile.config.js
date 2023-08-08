@@ -66,14 +66,14 @@ const config = {
       title: 'Payment Gateway',
       description:
         'Implement a mediator to handle payment and user information between two third-party systems',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://www.myq-solution.com/themes/myq/img/vector/logo-myq.svg?v=230206142735',
       link: 'https://github.com/shotgn16/PaymentGateway',
     },
     {
-      title: 'Study Cenal',
+      title: 'Study Central',
       description:
         'An ASP.NET Core (Razor Page) web app, designed to provide a collection of tools for christians on the go.',
-      imageUrl: 'https://via.placeholder.com/250x250',
+      imageUrl: 'https://i.imgur.com/YEEwPWK.png',
       link: 'https://github.com/shotgn16/StudyCentral',
     },
   ],
